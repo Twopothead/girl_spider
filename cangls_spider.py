@@ -38,7 +38,7 @@ def download_img(img_title,img_detail_websites):
         for url,title in zip(img_detail_websites,img_title):
                 filename = title
                 print(filename+":   "+url)
-                with open(str(nr_girl_nude_photo)+"__"+filename,'wb') as f:
+                with open(str(nr_girl_nude_photo)+"__"+filename+".jpg",'wb') as f:
                     f.write(requests.get(url,headers=headers,timeout=5).content)
                     nr_girl_nude_photo += 1
                     # num += 1

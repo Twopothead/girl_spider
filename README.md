@@ -4,7 +4,7 @@
 
 ---------------------
 
-A web spider for [cangls.com](http://www.cangls.com/)(a porn website).[![](assets/picture/logo-3-1.png)](http://www.cangls.com/)
+A web spider for downloading pornographic images from [cangls.com](http://www.cangls.com/)(a porn website).[![](assets/picture/logo-3-1.png)](http://www.cangls.com/)
 
 I want to extend my cordial gratitude to [cangls.com](www.cangls.com)! :cupid:
 
